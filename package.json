@@ -1,0 +1,44 @@
+{
+  "name": "sb-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^3.2.26",
+    "vuetify": "3.1.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@nce/eslint-config-nce": "^1.2.10",
+    "@typescript-eslint/eslint-plugin": "5.0.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-plugin-router": "^5.0.8",
+    "@vue/cli-plugin-typescript": "^5.0.8",
+    "@vue/cli-plugin-vuex": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "@vue/compiler-sfc": "^3.1.1",
+    "@vue/eslint-config-typescript": "^11.0.0",
+    "@vue/tsconfig": "^0.1.3",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-plugin-transform-require-context": "^0.1.1",
+    "eslint": "7.32.0",
+    "esm": "^3.2.25",
+    "jsdom": "^19.0.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.0.0",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.9.5",
+    "vue-cli-plugin-vuetify": "~2.2.0",
+    "vue-loader": "17.0.1",
+    "vue-demi": "^0.13.1",
+    "terser-webpack-plugin": "^5.3.6",
+    "vue-facing-decorator": "2.1.14",
+    "vuex-module-decorators": "2.0.0",
+    "webpack-plugin-vuetify": "^2.0.1"
+  }
+}
